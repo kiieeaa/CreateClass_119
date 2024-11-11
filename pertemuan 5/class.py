@@ -14,7 +14,7 @@ class persegipanjang:
      return f"persegi panjang, panjang {self.panjang} cm, dan lebar {self.lebar} cm"
 
 
-if __name__=="__main__":
+if __name__=="__main__":   
      try:
           panjang = float (input ("masukin panjangnya berapa??"))
           lebar = float (input ("masukin lebar berapaa??"))
